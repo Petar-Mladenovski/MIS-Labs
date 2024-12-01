@@ -1,3 +1,3 @@
-# laboratory1
+# MIS-Labs
 
 A new Flutter project.
